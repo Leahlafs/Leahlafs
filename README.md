@@ -82,10 +82,7 @@ React.js
   
 ##
 
-<h2>Estadísticas de Github:</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=Leahlafs&show_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/Leahlafs)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Leahlafs&theme=material-palenight)](https://github.com/Leahlafs)
 
 
 ----
